@@ -1,0 +1,2 @@
+/* @vite-ignore */
+export {};
